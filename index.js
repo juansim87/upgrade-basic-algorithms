@@ -2,6 +2,7 @@
 
 //1.1 Crea una variable llamada myFavoriteHero, asigna el valor Hulk a ella.
 let myFavoriteHero = 'Hulk';
+console.log (myFavoriteHero)
 
 //1.2 Crea una variable llamada x, asigna el valor 50 a ella.
 let x = 50;
